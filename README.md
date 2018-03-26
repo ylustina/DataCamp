@@ -3,9 +3,9 @@
 Courses for DataCamp's the [Data Scientist with Python Track](https://www.datacamp.com/tracks/data-scientist-with-python)
 
 
-1. [Intro to Python for Data Science](https://github.com/ylustina/DataCamp/blob/master/Notes/01%20Intro%20to%20Python%20for%20Data%20Science%20-%20DataCamp.ipynb)
+1. Intro to Python for Data Science
 
-2. [Intermediate Python for Data Science](https://github.com/ylustina/DataCamp/blob/master/Notes/02%20Intermediate%20Python%20for%20Data%20Science%20-%20DataCamp.ipynb)
+2. Intermediate Python for Data Science
 
 3. Python Data Science Toolbox (Part 1)
 
@@ -25,7 +25,7 @@ Courses for DataCamp's the [Data Scientist with Python Track](https://www.dataca
 
 11. Introduction to Databases in Python
 
-12. Introduction to Data Visualizations with Python
+12. Introduction to Data Visualization with Python
 
 13. Interactive Data Visualization with Bokeh
 
